@@ -1,0 +1,13 @@
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_setup.py:_flush():67] Configure stats pid to 9540
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_setup.py:_flush():67] Loading settings from C:\Users\ASUS\.config\wandb\settings
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_setup.py:_flush():67] Loading settings from c:\Users\ASUS\distance_classification\wandb\settings
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\ASUS\distance_classification\wandb\run-20250226_231231-v1juc61x\logs\debug.log
+2025-02-26 23:12:31,363 INFO    MainThread:9540 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\ASUS\distance_classification\wandb\run-20250226_231231-v1juc61x\logs\debug-internal.log
+2025-02-26 23:12:31,364 INFO    MainThread:9540 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000023CAA685D30>
+2025-02-26 23:12:31,364 INFO    MainThread:9540 [wandb_init.py:init():761] calling init triggers
+2025-02-26 23:12:31,364 INFO    MainThread:9540 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-26 23:12:31,364 INFO    MainThread:9540 [wandb_init.py:init():784] starting backend
+2025-02-26 23:12:31,364 INFO    MainThread:9540 [wandb_init.py:init():788] sending inform_init request
